@@ -1,9 +1,6 @@
 ﻿#pragma once
 #define number_star 500
 
-/// <summary>
-/// ㅁㄴㅇㅁㄴㅇ
-/// </summary>
 
 class Main : public Scene
 {
