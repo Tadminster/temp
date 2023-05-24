@@ -7,6 +7,8 @@
 #include "Ob_drag.h"
 #include "Main.h"
 
+
+//sadfasdfsdfsdfsdf
 Main::Main()
 {
     // 배경
